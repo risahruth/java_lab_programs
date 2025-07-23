@@ -5,7 +5,6 @@ class Operations
 public static void main(String[] args)
 {
 double a,b;char c;
-System.out.println("2024503543 Risah Ruth R");
 System.out.println("Enter any two integers or double values");
 Scanner ip=new Scanner(System.in);
 a=ip.nextDouble();
