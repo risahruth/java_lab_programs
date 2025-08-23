@@ -5,3 +5,4 @@ Week 2:This week program consists of applying simple and basic concepts of java 
 Week 3:This week's programs consist of simple games which uses basic logics of coding to run
 Week 4:My week 4 program consists of programs using constructor usage, static methods usage and nested class implication
 Week 5:My week 5 programs consists of string implementation and usages of string functions in java
+Week 6:This week's program consists using concepts of inheritance and constructors in inheritance
